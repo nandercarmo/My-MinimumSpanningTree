@@ -36,4 +36,4 @@ To run the program just use the following command line below:
 
 > ./minimum-spanning-tree entrada.txt saida.txt
 
-To see the results of other searches, just change the input words in the consulta.txt file
+To see the results of other graphs, just change the "entrada.txt" file
