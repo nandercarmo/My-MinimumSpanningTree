@@ -255,7 +255,7 @@
                grafo->vetor[i] = OrdenaLista(&grafo->vetor[i]);
           }
 
-          int j=0, tamanho;
+          int j=0;
           Lista aux;
 
           for (int i = 1; (i < grafo->num_vertices) && grafo->vetor[i].vertice != -1; i++) {

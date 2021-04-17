@@ -1,9 +1,0 @@
-#!/bin/bash
-
-echo Starting...
-echo Compiling and generating object files...
-gcc -c grafo.c -o grafo.o
-gcc -c main.c -o main.o
-echo Linking...
-gcc -o minimum-spanning-tree main.o grafo.o
-
