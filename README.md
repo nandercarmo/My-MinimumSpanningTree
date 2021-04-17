@@ -11,7 +11,7 @@ The file "input.txt" must contain the nodes and edges of the graph as follows:
 The "output.txt" file receives the optimized graph in the same format.
 
 <p align="center">
-  <img src="resource/gif.gif">
+  <img src="resources/gif.gif">
 </p>
 
 ## Install
