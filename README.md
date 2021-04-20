@@ -16,7 +16,7 @@ The **"output.txt"** file receives the optimized graph in the same format.
 
 ---
 
-##	📩	Install
+##	📦	Install
 
 To test this library, just make a clone of this repo and build using the commands below:
 
