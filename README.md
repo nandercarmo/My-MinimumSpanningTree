@@ -1,5 +1,14 @@
 #	🌲	My-MinimumSpanningTree
 
+<div align="left">
+    <img src="https://img.shields.io/badge/language-c-blue">
+    <img src="https://img.shields.io/badge/compiler-gcc-brightgreen">
+    <img src="https://img.shields.io/badge/build-makefile-green">
+    <img src="https://img.shields.io/badge/license-MIT-blueviolet">
+</div>
+
+---
+
 This project developed along the discipline of **"Algorithms and Data Structures"** at **UFMG** uses an implementation of the **Krushkal Algorithm** to calculate the Minimum Spanning Tree of a graph.
 
 The file **"input.txt"** must contain the nodes and edges of the graph as follows:
